@@ -1,4 +1,4 @@
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=seckinozulku&label=Profile%20views&color=0e75b6&style=flat" alt="seckinozulku" /> </p>
   <br><b> Hi there, I'm Seckin! 👋 <br>
   <br> I'm  Front End Web Developer<br>
   <br>
@@ -34,4 +34,7 @@
 <h2 align="left">Let's get connected:</h2>
 
 <a target="_blank" href="https://www.linkedin.com/in/seckinozulku/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seckinozulku&show_icons=true&locale=en&layout=compact" alt="seckinozulku" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seckinozulku&show_icons=true&locale=en" alt="seckinozulku" /></p>
 <b/>
+  
