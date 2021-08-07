@@ -2,9 +2,7 @@
   <br><b> Hi there, I'm Seckin! 👋 <br>
   <br> I'm  Front End Web Developer<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-
-  <br>
+  
   
   <h2 align="left">👨🏻‍💻 About Me:</h2>
 
