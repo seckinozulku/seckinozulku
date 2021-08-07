@@ -1,8 +1,7 @@
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=seckinozulku&label=Profile%20views&color=0e75b6&style=flat" alt="seckinozulku" /> </p>
   <br><b> Hi there, I'm Seckin! 👋 <br>
   <br> I'm  Front End Web Developer<br>
   <br>
-  
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   
   <h2 align="left">👨🏻‍💻 About Me:</h2>
 
