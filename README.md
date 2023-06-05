@@ -6,8 +6,6 @@
   <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm currently working on JavaScript,ReactJS
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw , books and all about learning
 - 📫 How to reach me: seckinozulku123@gmail.com
 
  
