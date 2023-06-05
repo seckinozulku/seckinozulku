@@ -1,4 +1,5 @@
-
+<h1 align="center">Hi 👋, I'm Seçkin!</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 - :computer: I'm currently working on JavaScript,ReactJS
 - 📫 How to reach me: seckinozulku123@gmail.com
 
