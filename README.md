@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Seçkin!</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
+  <br>
+  <br>
+  <br>
+
 - :computer: I'm currently working on JavaScript,ReactJS
 - 📫 How to reach me: seckinozulku123@gmail.com
 
- 
-</h2> 
+
 <h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
 <p align="left">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
