@@ -1,34 +1,69 @@
-<h1 align="center">Hi 👋, I'm Seçkin!</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
-  <br>
-  <br>
-  <br>
 
-- :computer: I'm currently working on JavaScript,ReactJS
-- 📫 How to reach me: seckinozulku123@gmail.com
+<h3 align="center">Frontend Developer | Software Engineering</h3>
 
+<p align="center">
+  I build modern, responsive and user-focused web applications using React, Next.js, Angular and TypeScript.
+</p>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools</h2>
-<p align="left">
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank">
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
- <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
- <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-  <br>
-  <br>
-  <br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/seckinozulku/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:seckinozulku123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<h2 align="left">Let's get connected:</h2>
+---
 
-<a target="_blank" href="https://www.linkedin.com/in/seckinozulku/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seckinozulku&show_icons=true&locale=en&layout=compact" alt="seckinozulku" /></p>
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seckinozulku&show_icons=true&locale=en" alt="seckinozulku" /></p>
-<b/>
-  
+## 👨‍💻 About Me
+
+* 💻 Frontend Developer focused on building modern, scalable and user-friendly web applications.
+* ⚛️ Working primarily with **React, Next.js, Angular and TypeScript**.
+* 🎨 Interested in clean UI, responsive design and great user experiences.
+* 🔥 Experienced with **Supabase, Firebase and Node.js** for backend services.
+* 🤖 Interested in **AI-assisted development, AI agents and local LLMs**.
+* 🚀 Always exploring new technologies, developer tools and better ways to build software.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,html,css,sass,tailwind" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🤖 AI & Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-111827?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM%20Studio-1F1F1F?style=for-the-badge&logoColor=white" />
+</p>
+
+* AI-assisted software development
+* AI agents and coding workflows
+* Local LLM experimentation
+* Prompt engineering and automation
+* Exploring open-source AI models and developer tools
+
+---
+
